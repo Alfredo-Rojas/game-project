@@ -276,7 +276,11 @@ function drop(){
     }
 }
 
-drop();
+document.getElementById("start-button").onclick = function() {
+    drop();
+  };
+
+
 
 
 
