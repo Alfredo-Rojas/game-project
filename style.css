@@ -1,0 +1,31 @@
+body {
+  background-color: steelblue;
+}
+
+
+#score{
+    display: inline-block;
+}
+
+.score-title {
+  color: white;
+  font-weight: normal;
+}
+
+.score-container {
+  margin-top: 40px;
+}
+
+div{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+}
+
+canvas{
+    display: block;
+    margin:0 auto;
+    margin-top: 40px;
+}
+
